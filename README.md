@@ -8,8 +8,11 @@ Semaine 2 Simplon
 		</title>
 		
 	</head>
-	<body>
-    <header>Sylvie FABRICATORE Poste recherché : Développeur</header>
+	<body>sss
+    <header>
+    <h1>Sylvie FABRICATORE</h1>
+    <h2>Développeur informatique</h1>
+    </header>
     <main>
         <h1>Formation</h1>
         <ul>
@@ -33,6 +36,7 @@ Semaine 2 Simplon
 
 
 </body>
+</html>
 
 
 https://www.codecademy.com/fr/users/teraRunner15831/achievements
